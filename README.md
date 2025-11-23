@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Gurraj Singh 👋
+# Hi, I'm Gurraj Singh 👋
 
 Full-Stack Engineer | AI/ML Enthusiast | CS & DS @ UW-Madison
 
