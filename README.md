@@ -1,16 +1,20 @@
-## Hey, I'm Gurraj Singh 👋
+<div align="center">
+
+## Hi, I'm Gurraj Singh 👋
 
 Full-Stack Engineer | AI/ML Enthusiast | CS & DS @ UW-Madison
 
+</div>
+
 ---
 
-## About Me
+## 💫 About Me
 
 I'm a junior at University of Wisconsin-Madison studying Computer Science and Data Science. I build full-stack applications with a focus on AI/ML integration, distributed systems, and scalable architectures. Currently building mobile and web apps that solve real-world problems.
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +42,7 @@ I'm a junior at University of Wisconsin-Madison studying Computer Science and Da
 
 ---
 
-## Currently Exploring
+## 🚀 Currently Exploring
 
 - RAG architectures and vector databases for semantic search
 - Generative AI models for creative applications
@@ -46,7 +50,7 @@ I'm a junior at University of Wisconsin-Madison studying Computer Science and Da
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singhgurraj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurrajsingh.tech@gmail.com)
