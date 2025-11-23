@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Hey, I'm Gurraj Singh 👋
 
 Full-Stack Engineer | AI/ML Enthusiast | CS & DS @ UW-Madison
@@ -56,5 +54,3 @@ I'm a junior at University of Wisconsin-Madison studying Computer Science and Da
 ---
 
 *Code. Build. Learn. Grow.*
-
-</div>
